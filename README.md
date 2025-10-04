@@ -13,14 +13,6 @@ text_to_viz: is an intuitive Streamlit app that transforms natural language desc
 ![Plotly](https://img.shields.io/badge/-Plotly-000?&logo=plotly)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-000?&logo=openai)
 
-<h2>Features</h2>
-- <strong>Data Cleaning & Processing: </strong>Choose between AI-assisted or manual data cleaning and preprocessing.  <br />
-- <strong>Domain Selection: </strong> Select a domain to boost domain-specific metrics and insights.  <br />
-- <strong>Automatic KPI Selection:</strong> Identify the most relevant performance metrics using a heuristic scoring engine.  <br />
-- <strong>Automatic Plot Selection:</strong> Suggests the most informative visualizations using a heuristic scoring engine.  <br />
-- <strong>Intelligent Visualization Choice:</strong> Leverage a decision tree algorithm to select the best plots for specific data columns.  <br />
-- <strong>Interactive Dashboard:</strong> Generate a fully interactive dashboard with Plotly for dynamic exploration of your data. <br />
-
 
 <h2>App walk-through:</h2>
 
@@ -28,11 +20,12 @@ text_to_viz: is an intuitive Streamlit app that transforms natural language desc
 <p align="center">
 CSV Upload:
 "Users can easily upload their CSV dataset using a simple drag-and-drop or file selector interface, enabling the app to read and process data instantly for visualization."<br/>
-<img width="1809" height="685" alt="1" src="https://github.com/user-attachments/assets/a1648830-ab6b-46c5-9cbe-5369f43543cc" />
+<img width="1920" height="779" alt="Screenshot from 2025-10-04 13-01-36" src="https://github.com/user-attachments/assets/36ffab65-6204-42fb-8f1f-17cf72fd74ca" />
 <br />
 <br />
-Data Quality Evaluation:  <br/>
-<img width="1825" height="939" alt="2" src="https://github.com/user-attachments/assets/af8474b9-47c9-4429-ab32-4dd84efe28ef" />
+User Input in Text:
+"Users can describe the type of analysis or visualization they want in plain language, such as 'show sales trends over time' or 'compare product revenue by region.' The LLM interprets the request and prepares the analysis."<br/>
+<img width="1920" height="779" alt="Screenshot from 2025-10-04 13-02-06" src="https://github.com/user-attachments/assets/14be466c-b3ed-4b17-9df7-c26a6bba9193" />
 <br />
 <br />
 Manual Cleaning: <br/>
