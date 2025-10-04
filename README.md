@@ -1,8 +1,8 @@
 
 <img width="922" height="279" alt="ChatGPT Image Oct 4, 2025, 01_08_53 PM (1)" src="https://github.com/user-attachments/assets/78a8e94b-2c52-4e00-acc6-ac3e4903d3c6" />
 
-<h1>text_to_viz: is an intuitive Streamlit app that transforms natural language descriptions into interactive data visualizations. Users can upload their CSV dataset, specify the visual insights they want using plain language, and the app leverages a large language model to generate corresponding KPIs and visualizations automatically.</h1>
-
+<h1>App Description</h1>
+text_to_viz: is an intuitive Streamlit app that transforms natural language descriptions into interactive data visualizations. Users can upload their CSV dataset, specify the visual insights they want using plain language, and the app leverages a large language model to generate corresponding KPIs and visualizations automatically.
 
 
 
