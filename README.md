@@ -28,24 +28,15 @@ User Input in Text:
 <img width="1920" height="779" alt="Screenshot from 2025-10-04 13-02-06" src="https://github.com/user-attachments/assets/14be466c-b3ed-4b17-9df7-c26a6bba9193" />
 <br />
 <br />
-Manual Cleaning: <br/>
-<img width="1883" height="1030" alt="3" src="https://github.com/user-attachments/assets/94ca31e2-413d-4ab6-8d1f-49a8de29440a" />
+KPI Results:
+"After processing the user's request, the app calculates key performance indicators (KPIs) from the dataset, providing a quick numerical summary of important insights."<br/>
+<img width="1920" height="368" alt="Screenshot from 2025-10-04 13-02-26" src="https://github.com/user-attachments/assets/c027fb22-3d6d-4e48-a968-75179a96c296" />
 <br />
 <br />
-Domain Selection:  <br/>
-<img width="1831" height="674" alt="4" src="https://github.com/user-attachments/assets/fab920c0-9f97-4584-93c0-f2cf48a67277" />
-<br />
-<br />
-Metrics Reccomendation:  <br/>
-<img width="1842" height="667" alt="5" src="https://github.com/user-attachments/assets/c4a075d8-b765-4c40-8990-62002cb33e05" />
-<br />
-<br />
-Plots Reccomendation:  <br/>
-<img width="1832" height="771" alt="6" src="https://github.com/user-attachments/assets/5f5f741f-aff6-4e6f-a86d-bd424d53e28e" />
-<br />
-<br />
-Final Dashboard:  <br/>
-<img width="1920" height="1080" alt="7" src="https://github.com/user-attachments/assets/8b813248-dc10-4bc9-8feb-aeca85d5326b" />
+Visualization Result:
+"The app generates interactive charts and graphs based on the user's description, giving a clear visual representation of the requested data insights, all without writing a single line of code."<br/>
+<img width="1920" height="816" alt="Screenshot from 2025-10-04 13-03-21" src="https://github.com/user-attachments/assets/452b83ee-b539-4fa7-9e08-d239de039adf" />
+<img width="1920" height="803" alt="Screenshot from 2025-10-04 13-03-39" src="https://github.com/user-attachments/assets/283275f1-0c0b-42a6-a74e-31006c8c2a01" />
 </p>
 
-<p><em>CSViz empowers users to transform raw CSV data into actionable insights through intelligent processing and interactive visualization.</em></p>
+<p><em>text_to_viz works on making analytics accessible to anyone without needing coding or BI expertise.</em></p>
