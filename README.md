@@ -5,13 +5,13 @@
 text_to_viz: is an intuitive Streamlit app that transforms natural language descriptions into interactive data visualizations. Users can upload their CSV dataset, specify the visual insights they want using plain language, and the app leverages a large language model to generate corresponding KPIs and visualizations automatically.
 
 <h2>Features</h2>
-- 📁 **CSV File Upload**: Upload any CSV file for analysis
-- 🤖 **AI-Powered Analysis**: Uses OpenAI GPT-4 to analyze data and suggest visualizations
-- 📊 **3 KPIs**: Automatically generates 3 key performance indicators
-- 📈 **4 Visualizations**: Creates 4 different chart types based on your data
-- 🎨 **Interactive Charts**: Built with Plotly for interactive visualizations
-- 🔑 **Secure API**: Enter your OpenAI API key securely
-- 🚀 **Advanced Insights**: GPT-4 provides more sophisticated and interesting visualizations
+  - 📁 **CSV File Upload**: Upload any CSV file for analysis
+  - 🤖 **AI-Powered Analysis**: Uses OpenAI GPT-4 to analyze data and suggest visualizations
+  - 📊 **3 KPIs**: Automatically generates 3 key performance indicators
+  - 📈 **4 Visualizations**: Creates 4 different chart types based on your data
+  - 🎨 **Interactive Charts**: Built with Plotly for interactive visualizations
+  - 🔑 **Secure API**: Enter your OpenAI API key securely
+  - 🚀 **Advanced Insights**: GPT-4 provides more sophisticated and interesting visualizations
 
 <h2>Tech Stack Used</h2>
 
